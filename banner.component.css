@@ -1,0 +1,130 @@
+.image-flex{
+    border: 1px  solid;
+    /* margin: 20px; */
+    margin-right: 40PX;
+    background-color: skyblue;
+    width: 700px;
+    height: 450px;
+    margin-left: 200px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    border-radius: 10px;
+    
+
+}
+h2,h4{
+    margin-left: 60px;
+    font-size: 25px;
+}
+#buttion{
+    padding: 10px;
+    margin-top: 30px;
+    margin-left: 40px;
+    border-radius: 5px;
+    background-color: yellow;
+}
+#header{
+    font-size: 50px;
+}
+.home-flex{
+    border: 1px solid;
+    /* margin: 60px; */
+    text-align: center;
+    background-color: yellow;
+    width: 700px;
+    height: 450px;
+    border-radius: 10px;
+    margin-left: 100px;
+}
+.home-flex,h2,h4{
+    margin-top: 20px;
+}
+/* .card{
+    background-color: skyblue;
+    margin-left: 50px;
+    margin-right: 50px; 
+    border-radius: 20px;
+} */
+#ban-image{
+    margin-top: 45px;
+    margin-right: 0px;
+}
+#Ban-img{
+    width: 250px;
+    height: 600px;
+    padding: 10px;
+}
+.car-text2{
+    font-size: 50px;
+    margin-left: 40px;
+}
+.car-text{
+    margin-left: 40px;
+    margin-top: 40px;
+    font-size: 40px;
+}
+.car-btn{
+    padding: 20px;
+    margin-top: 30px;
+    margin-left: 40px;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+}
+.car-img{
+    display: flex;
+    background-color: skyblue;
+    margin-left: 60px;
+    margin-right: 400px;
+    border: 1px solid;
+    border-radius: 10px;
+
+}
+.caro-slide{
+    margin-left: 140px;
+    margin-top: 30px;
+}
+.d-flex{
+margin-left: 0px;
+
+}
+/* @media screen and (min-width : 576px) {
+    .d-flex{
+padding: 1px;
+margin-left: 0px;
+margin-right: 0px;
+width: max-content;
+
+    }
+    
+} */
+.ladybanner{
+    display: flex;
+    background-color: skyblue;
+    margin-left: 200px;
+    width: 90%;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+.carousel-img{
+    background-color: skyblue;
+    border-radius: 20px;
+    width: 70%;
+    margin-left: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+}
+@media screen and (min-width : 992px) {
+    .banner{
+padding: 1px;
+margin-left: 0px;
+margin-right: 0px;
+width: max-content;
+
+    }
+    
+}
+
+
+
