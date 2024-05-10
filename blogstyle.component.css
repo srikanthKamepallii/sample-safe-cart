@@ -1,0 +1,32 @@
+.blog-head{
+    text-align: center;
+    padding: 80px;
+    background-color: gainsboro;
+}
+.blog-simble{
+    padding: 10px;
+}
+.blog-btn{
+    padding: 10px;
+    border-radius: 20px;
+    width: 150px;
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+.blog-btn:hover{
+    background-color: green; 
+    color: white;
+}
+.blog-card{
+    border: 1px solid;
+    margin:  30px;
+    padding: 20px;
+    justify-content: center;
+    text-align: center;
+}
+.blog-flex{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
